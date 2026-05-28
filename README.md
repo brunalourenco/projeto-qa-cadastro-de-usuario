@@ -4,6 +4,16 @@
 
 Avaliar o comportamento do fluxo de cadastro de usuário, validando regras de negócio e campos obrigatório.
 
+## Estrutura do Projeto
+
+Projeto QA - Cadastro de Usuário
+├── Estratégia de Testes
+├── Casos de Teste
+├── Cenários Gherkin
+├── Bug Reports
+├── Evidências
+└── README.md
+
 ## Ferramentas utilizadas
 
 - GitHub
@@ -28,10 +38,17 @@ Projeto de testes exploratórios e manuais focado na funcionalidade de cadastro 
 - CADASTRO - O sistema aceita cadastro de usuário já cadastrado anteriormente
 - NOME - Problemas na validação de dados no campo nome , sistema aceita números, caracteres especiais e não há limitação de caracteres.
 
+## Métricas do Projeto
+
+- Casos de teste criados: 16
+- Bugs encontrados: 05
+- Funcionalidades testadas: 01
+- Tipo de teste: Manual / Exploratório
+
 ## Artefatos produzidos
 
-- [Estratégia de testes](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/estrategia-de-testes)
-- [Casos de teste](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/casos-de-testes)
-- [Bug reports](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/bug-report)
-- [Cenários Gherkin](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/cenarios-gherkin)
-- [Evidências](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/evidencias)
+- [Estratégia de testes](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/estrategia-de-testes) -> definição de abordagem, escopo e critérios de teste
+- [Casos de teste](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/casos-de-testes) ->cenários documentados em formato estruturado
+- [Bug reports](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/bug-report) -> registro de defeitos encontrados durante execução dos testes
+- [Cenários Gherkin](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/cenarios-gherkin) ->
+- [Evidências](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/evidencias) -> imagens de testes executados
