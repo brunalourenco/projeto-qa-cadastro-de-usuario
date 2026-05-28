@@ -2,7 +2,7 @@
 
 Os casos de teste completos e bug reports também estão disponíveis em formato Excel dentro do projeto.
 <br>
-[Clique e acesse a planilha]()
+[Clique e acesse a planilha](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/blob/main/docs/Bug%20report%20-%20Cadastro%20de%20usu%C3%A1rio%20Ecommerce.xlsx)
 <br>
 
 ## BUG-001 - Cadastro de usuário já cadastrado anteriormente
@@ -50,10 +50,11 @@ Bruna Lourenço
 
 ### Evidências
 
-![Bug 001 - print 1](evidencias/BUG 001/Bug 001 - print 1.png)
-![Bug 001 -print 2](evidencias/BUG 001/Bug 001 - print 2.png)
-![Bug 001 -print 3](evidencias/BUG 001/Bug 001 - print 3.png)
-![Bug 001 -print 4](evidencias/BUG 001/Bug 001 - print 4.png)
+![Bug 001 - print 1](../evidencias/BUG%20001/Bug%20001%20-%20print%201.png)
+![Bug 001 -print 2](../evidencias/BUG%20001/Bug%20001%20-%20print%202.png)
+![Bug 001 -print 3](../evidencias/BUG%20001/Bug%20001%20-%20print%203.png)
+![Bug 001 -print 4](../evidencias/BUG%20001/Bug%20001%20-%20print%204.png)
+![Bug 001 -print 5](../evidencias/BUG%20001/Bug%20001%20-%20print%205.png)
 
 ---
 
@@ -101,8 +102,8 @@ Bruna Lourenço
 
 ### Evidências
 
-![Bug 002 - print 1](evidencias/BUG 002/Bug 002 - print 1.png)
-![Bug 002 - print 2](evidencias/BUG 002/Bug 002 - print 2.png)
+![Bug 002 - print 1](../evidencias/BUG%20002/Bug%20002%20-%20print%201.png)
+![Bug 002 - print 2](../evidencias/BUG%20002/Bug%20002%20-%20print%202.png)
 
 ---
 
@@ -150,8 +151,8 @@ Bruna Lourenço
 
 ### Evidências
 
-![Bug 003 - print 1](evidencias/BUG 003/Bug 003 - print 1.png)
-![Bug 003 - print 2](evidencias/BUG 003/Bug 003 - print 2.png)
+![Bug 003 - print 1](../evidencias/BUG%20003/Bug%20003%20-%20print%201.png)
+![Bug 003 - print 2](../evidencias/BUG%20003/Bug%20003%20-%20print%202.png)
 
 ---
 
@@ -199,8 +200,8 @@ Bruna Lourenço
 
 ### Evidências
 
-![Bug 004 - print 1](evidencias/BUG 004/Bug 004 - print 1.png)
-![Bug 004 - print 2](evidencias/BUG 004/Bug 004 - print 2.png)
+![Bug 004 - print 1](../evidencias/BUG%20004/Bug%20004%20-%20print%201.png)
+![Bug 004 - print 2](../evidencias/BUG%20004/Bug%20004%20-%20print%202.png)
 
 ## BUG-005 - Tipo de caracter inválido para o campo nome
 
@@ -246,5 +247,5 @@ Bruna Lourenço
 
 ### Evidências
 
-![Bug 005 - print 1](evidencias/BUG 005/Bug 005 - print 1.png)
-![Bug 005 - print 2](evidencias/BUG 005/Bug 005 - print 2.png)
+![Bug 005 - print 1](../evidencias/BUG%20005/Bug%20005%20-%20print%201.png)
+![Bug 005 - print 2](../evidencias/BUG%20005/Bug%20005%20-%20print%202.png)

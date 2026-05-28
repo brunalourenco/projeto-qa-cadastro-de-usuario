@@ -97,7 +97,6 @@ Documentar regras de negócios e auxiliar posteriormente na automação de teste
 **Dado** que esteja na página da Qazando Shop  
 **E** clique no botão "Cadastro"  
 **Quando** informe campo de senha vazio
-
 **E** informar os demais campos com dados válidos  
 **Então** o cadastro não deverá ser concluído  
 **E** o sistema deverá exibir mensagem de erro "O campo senha deve ter pelo menos 6 dígitos"
@@ -155,8 +154,8 @@ Documentar regras de negócios e auxiliar posteriormente na automação de teste
 **Dado** que esteja na página da Qazando Shop  
 **E** clique no botão "Cadastro"  
 **Quando** informe campo de senha apenas com caracteres especiais
-**E** informar os demais campos com dados válidos  
-**Então** o cadastro não será concluído  
+**E** informar os demais campos com dados válidos
+**Então** o cadastro não será concluído
 **E** o sistema deverá exibir mensagem de erro "O campo senha deve ter pelo menos 6 dígitos"
 
 ---
@@ -166,6 +165,6 @@ Documentar regras de negócios e auxiliar posteriormente na automação de teste
 **Dado** que esteja na página da Qazando Shop  
 **E** clique no botão "Cadastro"  
 **Quando** informe campo de senha com letras, número e caracteres especiais
-**E** informar os demais campos com dados válidos  
-**Então** o cadastro não será concluído  
+**E** informar os demais campos com dados válidos
+**Então** o cadastro não será concluído
 **E** o sistema deverá exibir mensagem de erro "O campo senha deve ter pelo menos 6 dígitos"
