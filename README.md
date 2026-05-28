@@ -26,18 +26,12 @@ Projeto de testes exploratórios e manuais focado na funcionalidade de cadastro 
 ## Bugs encontrados
 
 - CADASTRO - O sistema aceita cadastro de usuário já cadastrado anteriormente
-- NOME - Problemas na validação de dados no campo nome , sistema aceita números, caracteres especiais e  não há limitação de caracteres.
-
+- NOME - Problemas na validação de dados no campo nome , sistema aceita números, caracteres especiais e não há limitação de caracteres.
 
 ## Artefatos produzidos
 
-- [Estratégia de testes]()
-- [Casos de teste]()
-- [Bug reports]()
-- [Cenários Gherkin]()
-- [Evidências]()
-
-
-
-
-
+- [Estratégia de testes](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/estrategia-de-testes)
+- [Casos de teste](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/casos-de-testes)
+- [Bug reports](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/bug-report)
+- [Cenários Gherkin](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/cenarios-gherkin)
+- [Evidências](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/evidencias)
