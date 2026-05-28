@@ -6,13 +6,13 @@ Avaliar o comportamento do fluxo de cadastro de usuário, validando regras de ne
 
 ## Estrutura do Projeto
 
-Projeto QA - Cadastro de Usuário
-├── Estratégia de Testes
-├── Casos de Teste
-├── Cenários Gherkin
-├── Bug Reports
-├── Evidências
-└── README.md
+Projeto QA - Cadastro de Usuário <br>
+├── Estratégia de Testes <br>
+├── Casos de Teste <br>
+├── Cenários Gherkin <br>
+├── Bug Reports <br>
+├── Evidências <br>
+└── README.md <br>
 
 ## Ferramentas utilizadas
 
