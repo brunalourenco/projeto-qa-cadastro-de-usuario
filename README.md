@@ -50,5 +50,5 @@ Projeto de testes exploratórios e manuais focado na funcionalidade de cadastro 
 - [Estratégia de testes](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/estrategia-de-testes) -> definição de abordagem, escopo e critérios de teste
 - [Casos de teste](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/casos-de-testes) ->cenários documentados em formato estruturado
 - [Bug reports](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/bug-report) -> registro de defeitos encontrados durante execução dos testes
-- [Cenários Gherkin](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/cenarios-gherkin) ->
+- [Cenários Gherkin](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/cenarios-gherkin) -> especificações BDD para futuras automações
 - [Evidências](https://github.com/brunalourenco/projeto-qa-cadastro-de-usuario/tree/main/evidencias) -> imagens de testes executados
